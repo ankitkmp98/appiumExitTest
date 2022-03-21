@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Exit_Test
+Bundle-SymbolicName: Exit_Test
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: Exit.Test
+Export-Package: Runner,
+ base,
+ features,
+ pages,
+ stepdefinition
