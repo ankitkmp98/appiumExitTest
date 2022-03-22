@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Surefire test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>0/6/0</td>
 </tr><tr>
-<td>Started on:</td><td>Mon Mar 21 23:08:48 IST 2022</td>
+<td>Started on:</td><td>Tue Mar 22 19:37:50 IST 2022</td>
 </tr>
-<tr><td>Total time:</td><td>22 seconds (22231 ms)</td>
+<tr><td>Total time:</td><td>40 seconds (40315 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,20 +75,124 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User performs hide opertion of numbers", "Optional[hide and show of animation button]"</td>
-<td><div><pre>java.lang.AssertionError: expected [true] but found [false]
-	at stepdefinition.AnimationHideStep.i_click_on_number_fourth_number_for_hide_operation(AnimationHideStep.java:81)
-	at ?.I click on number fourth number for hide operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/animation_hide.feature:13)
-... Removed 4 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace430050226", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace430050226'><pre>java.lang.AssertionError: expected [true] but found [false]
-	at org.testng.Assert.fail(Assert.java:93)
-	at org.testng.Assert.failNotEquals(Assert.java:512)
-	at org.testng.Assert.assertTrue(Assert.java:41)
-	at org.testng.Assert.assertTrue(Assert.java:51)
-	at stepdefinition.AnimationHideStep.i_click_on_number_fourth_number_for_hide_operation(AnimationHideStep.java:81)
-	at ?.I click on number fourth number for hide operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/animation_hide.feature:13)
+<td title='Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User performs hide opertion of numbers", "Optional[hide operation of animation button]"</td>
+<td><div><pre>java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.HideShowAnimationPage.&lt;init&gt;(HideShowAnimationPage.java:18)
+	at stepdefinition.AnimationHideStep.i_click_on_animation_button_for_hide_operation(AnimationHideStep.java:23)
+	at ?.I click on animation button for hide operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/animation_hide.feature:6)
+</pre></div><a href='#' onClick='toggleBox("stack-trace818546553", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace818546553'><pre>java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.HideShowAnimationPage.&lt;init&gt;(HideShowAnimationPage.java:18)
+	at stepdefinition.AnimationHideStep.i_click_on_animation_button_for_hide_operation(AnimationHideStep.java:23)
+	at ?.I click on animation button for hide operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/animation_hide.feature:6)
 </pre></div></td>
-<td>21</td>
+<td>5</td>
+<td>Runner.TestRunner@5c33f1a9</td></tr>
+<tr>
+<td title='Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User performs show operation of numbers", "Optional[show operation of animation button]"</td>
+<td><div><pre>java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.HideShowAnimationPage.&lt;init&gt;(HideShowAnimationPage.java:18)
+	at stepdefinition.AnimationShowStep.at_first_I_perform_all_hide_operations(AnimationShowStep.java:23)
+	at ?.At first I perform all hide operations(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/animation_show.feature:6)
+</pre></div><a href='#' onClick='toggleBox("stack-trace620261614", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace620261614'><pre>java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.HideShowAnimationPage.&lt;init&gt;(HideShowAnimationPage.java:18)
+	at stepdefinition.AnimationShowStep.at_first_I_perform_all_hide_operations(AnimationShowStep.java:23)
+	at ?.At first I perform all hide operations(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/animation_show.feature:6)
+</pre></div></td>
+<td>9</td>
+<td>Runner.TestRunner@5c33f1a9</td></tr>
+<tr>
+<td title='Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User performs cloning opertion", "Optional[cloning operation of animation button]"</td>
+<td><div><pre>java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.CloningPage.&lt;init&gt;(CloningPage.java:18)
+	at stepdefinition.CloningStep.i_click_on_animation_button_for_cloning_operation(CloningStep.java:23)
+	at ?.I click on animation button for cloning operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/cloning.feature:6)
+</pre></div><a href='#' onClick='toggleBox("stack-trace2058661465", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2058661465'><pre>java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.CloningPage.&lt;init&gt;(CloningPage.java:18)
+	at stepdefinition.CloningStep.i_click_on_animation_button_for_cloning_operation(CloningStep.java:23)
+	at ?.I click on animation button for cloning operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/cloning.feature:6)
+</pre></div></td>
+<td>2</td>
+<td>Runner.TestRunner@5c33f1a9</td></tr>
+<tr>
+<td title='Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User performs custom evaluator opration", "Optional[custom evaluator opration of animation button]"</td>
+<td><div><pre>java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.CustomPage.&lt;init&gt;(CustomPage.java:17)
+	at stepdefinition.CustomStep.i_click_on_animation_button_for_custom_operation(CustomStep.java:23)
+	at ?.I click on animation button for custom operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/custom_evaluator.feature:6)
+</pre></div><a href='#' onClick='toggleBox("stack-trace170050776", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace170050776'><pre>java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.CustomPage.&lt;init&gt;(CustomPage.java:17)
+	at stepdefinition.CustomStep.i_click_on_animation_button_for_custom_operation(CustomStep.java:23)
+	at ?.I click on animation button for custom operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/custom_evaluator.feature:6)
+</pre></div></td>
+<td>8</td>
+<td>Runner.TestRunner@5c33f1a9</td></tr>
+<tr>
+<td title='Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User performs loading opertion", "Optional[loading operation of animation button]"</td>
+<td><div><pre>java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.LoadingPage.&lt;init&gt;(LoadingPage.java:17)
+	at stepdefinition.LoadingStep.i_click_on_animation_button_for_loading_operation(LoadingStep.java:23)
+	at ?.I click on animation button for loading operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/loading.feature:6)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1681730990", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1681730990'><pre>java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.LoadingPage.&lt;init&gt;(LoadingPage.java:17)
+	at stepdefinition.LoadingStep.i_click_on_animation_button_for_loading_operation(LoadingStep.java:23)
+	at ?.I click on animation button for loading operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/loading.feature:6)
+</pre></div></td>
+<td>2</td>
+<td>Runner.TestRunner@5c33f1a9</td></tr>
+<tr>
+<td title='Runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: Runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "User performs multiple properties opertion", "Optional[multiple properties of animation button]"</td>
+<td><div><pre>java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.MultiplePropertiesPage.&lt;init&gt;(MultiplePropertiesPage.java:17)
+	at stepdefinition.MultiplePropertiesStep.i_click_on_animation_button_for_multiple_operation(MultiplePropertiesStep.java:24)
+	at ?.I click on animation button for multiple operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/multiple_properties.feature:6)
+</pre></div><a href='#' onClick='toggleBox("stack-trace688819371", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace688819371'><pre>java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.MultiplePropertiesPage.&lt;init&gt;(MultiplePropertiesPage.java:17)
+	at stepdefinition.MultiplePropertiesStep.i_click_on_animation_button_for_multiple_operation(MultiplePropertiesStep.java:24)
+	at ?.I click on animation button for multiple operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/multiple_properties.feature:6)
+</pre></div></td>
+<td>9</td>
 <td>Runner.TestRunner@5c33f1a9</td></tr>
 </table><p>
 </body>

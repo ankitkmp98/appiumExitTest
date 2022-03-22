@@ -1,6 +1,6 @@
-Feature: hide and show of animation button
+Feature: hide operation of animation button
 
-  @hide @animation @test
+  @hide @animation @flag
   Scenario: User performs hide opertion of numbers
     Given At first I open my animation page for hide operation
     And I click on animation button for hide operation
@@ -11,4 +11,4 @@ Feature: hide and show of animation button
     Then I click on number second number for hide operation
     Then I click on number third number for hide operation
     Then I click on number fourth number for hide operation
-    
+    And I perform assertion for hide operation

@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite, 6 failed tests</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method, 1 failed,   </span>
+                    <span class="method-stats">6 methods, 6 failed,   </span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -102,7 +102,32 @@
                     <div class="method-list-content failed suite-Surefire_suite">
                       <span>
                         <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Surefire_suite" title="Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User performs hide opertion of numbers&quot;, &quot;Optional[hide and show of animation button]&quot;)">runScenario("User performs hide opertion of numbers", "Optional[hide and show of animation button]")</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Surefire_suite" title="Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User performs hide opertion of numbers&quot;, &quot;Optional[hide operation of animation button]&quot;)">runScenario("User performs hide opertion of numbers", "Optional[hide operation of animation button]")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Surefire_suite" title="Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User performs loading opertion&quot;, &quot;Optional[loading operation of animation button]&quot;)">runScenario("User performs loading opertion", "Optional[loading operation of animation button]")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Surefire_suite" title="Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User performs multiple properties opertion&quot;, &quot;Optional[multiple properties of animation button]&quot;)">runScenario("User performs multiple properties opertion", "Optional[multiple properties of animation button]")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Surefire_suite" title="Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User performs show operation of numbers&quot;, &quot;Optional[show operation of animation button]&quot;)">runScenario("User performs show operation of numbers", "Optional[show operation of animation button]")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Surefire_suite" title="Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User performs custom evaluator opration&quot;, &quot;Optional[custom evaluator opration of animation button]&quot;)">runScenario("User performs custom evaluator opration", "Optional[custom evaluator opration of animation button]")</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Surefire_suite" title="Runner.TestRunner" class="method navigator-link" hash-for-method="runScenario(&quot;User performs cloning opertion&quot;, &quot;Optional[cloning operation of animation button]&quot;)">runScenario("User performs cloning opertion", "Optional[cloning operation of animation button]")</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-Surefire_suite -->
@@ -125,14 +150,113 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="runScenario(&quot;User performs hide opertion of numbers&quot;, &quot;Optional[hide and show of animation button]&quot;)">
-                  </a> <!-- runScenario("User performs hide opertion of numbers", "Optional[hide and show of animation button]") -->
+                  <a name="runScenario(&quot;User performs hide opertion of numbers&quot;, &quot;Optional[hide operation of animation button]&quot;)">
+                  </a> <!-- runScenario("User performs hide opertion of numbers", "Optional[hide operation of animation button]") -->
                   <span class="method-name">runScenario</span>
-                  <span class="parameters">("User performs hide opertion of numbers", "Optional[hide and show of animation button]")</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
-	at stepdefinition.AnimationHideStep.i_click_on_number_fourth_number_for_hide_operation(AnimationHideStep.java:81)
-	at ✽.I click on number fourth number for hide operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/animation_hide.feature:13)
-... Removed 4 stack frames
+                  <span class="parameters">("User performs hide opertion of numbers", "Optional[hide operation of animation button]")</span>
+                  <div class="stack-trace">java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.HideShowAnimationPage.&lt;init&gt;(HideShowAnimationPage.java:18)
+	at stepdefinition.AnimationHideStep.i_click_on_animation_button_for_hide_operation(AnimationHideStep.java:23)
+	at ✽.I click on animation button for hide operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/animation_hide.feature:6)
+
+</div> <!-- stack-trace -->
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User performs loading opertion&quot;, &quot;Optional[loading operation of animation button]&quot;)">
+                  </a> <!-- runScenario("User performs loading opertion", "Optional[loading operation of animation button]") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User performs loading opertion", "Optional[loading operation of animation button]")</span>
+                  <div class="stack-trace">java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.LoadingPage.&lt;init&gt;(LoadingPage.java:17)
+	at stepdefinition.LoadingStep.i_click_on_animation_button_for_loading_operation(LoadingStep.java:23)
+	at ✽.I click on animation button for loading operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/loading.feature:6)
+
+</div> <!-- stack-trace -->
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User performs multiple properties opertion&quot;, &quot;Optional[multiple properties of animation button]&quot;)">
+                  </a> <!-- runScenario("User performs multiple properties opertion", "Optional[multiple properties of animation button]") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User performs multiple properties opertion", "Optional[multiple properties of animation button]")</span>
+                  <div class="stack-trace">java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.MultiplePropertiesPage.&lt;init&gt;(MultiplePropertiesPage.java:17)
+	at stepdefinition.MultiplePropertiesStep.i_click_on_animation_button_for_multiple_operation(MultiplePropertiesStep.java:24)
+	at ✽.I click on animation button for multiple operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/multiple_properties.feature:6)
+
+</div> <!-- stack-trace -->
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User performs show operation of numbers&quot;, &quot;Optional[show operation of animation button]&quot;)">
+                  </a> <!-- runScenario("User performs show operation of numbers", "Optional[show operation of animation button]") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User performs show operation of numbers", "Optional[show operation of animation button]")</span>
+                  <div class="stack-trace">java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.HideShowAnimationPage.&lt;init&gt;(HideShowAnimationPage.java:18)
+	at stepdefinition.AnimationShowStep.at_first_I_perform_all_hide_operations(AnimationShowStep.java:23)
+	at ✽.At first I perform all hide operations(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/animation_show.feature:6)
+
+</div> <!-- stack-trace -->
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User performs custom evaluator opration&quot;, &quot;Optional[custom evaluator opration of animation button]&quot;)">
+                  </a> <!-- runScenario("User performs custom evaluator opration", "Optional[custom evaluator opration of animation button]") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User performs custom evaluator opration", "Optional[custom evaluator opration of animation button]")</span>
+                  <div class="stack-trace">java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.CustomPage.&lt;init&gt;(CustomPage.java:17)
+	at stepdefinition.CustomStep.i_click_on_animation_button_for_custom_operation(CustomStep.java:23)
+	at ✽.I click on animation button for custom operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/custom_evaluator.feature:6)
+
+</div> <!-- stack-trace -->
+                  <em>
+(Runs Cucumber Scenarios)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="runScenario(&quot;User performs cloning opertion&quot;, &quot;Optional[cloning operation of animation button]&quot;)">
+                  </a> <!-- runScenario("User performs cloning opertion", "Optional[cloning operation of animation button]") -->
+                  <span class="method-name">runScenario</span>
+                  <span class="parameters">("User performs cloning opertion", "Optional[cloning operation of animation button]")</span>
+                  <div class="stack-trace">java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:882)
+	at io.appium.java_client.TouchAction.&lt;init&gt;(TouchAction.java:52)
+	at io.appium.java_client.android.AndroidTouchAction.&lt;init&gt;(AndroidTouchAction.java:26)
+	at pages.CloningPage.&lt;init&gt;(CloningPage.java:18)
+	at stepdefinition.CloningStep.i_click_on_animation_button_for_cloning_operation(CloningStep.java:23)
+	at ✽.I click on animation button for cloning operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/cloning.feature:6)
+
 </div> <!-- stack-trace -->
                   <em>
 (Runs Cucumber Scenarios)                  </em>
@@ -199,16 +323,36 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(1);
+data.addRows(6);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'runScenario')
 data.setCell(0, 2, 'Runner.TestRunner')
-data.setCell(0, 3, 21038);
+data.setCell(0, 3, 9753);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'runScenario')
+data.setCell(1, 2, 'Runner.TestRunner')
+data.setCell(1, 3, 9169);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'runScenario')
+data.setCell(2, 2, 'Runner.TestRunner')
+data.setCell(2, 3, 8800);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'runScenario')
+data.setCell(3, 2, 'Runner.TestRunner')
+data.setCell(3, 3, 5001);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'runScenario')
+data.setCell(4, 2, 'Runner.TestRunner')
+data.setCell(4, 3, 2712);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'runScenario')
+data.setCell(5, 2, 'Runner.TestRunner')
+data.setCell(5, 3, 2569);
 window.suiteTableData['Surefire_suite']= { tableData: data, tableDiv: 'times-div-Surefire_suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 21 seconds</span>
+              <span class="suite-total-time">Total running time: 38 seconds</span>
               <div id="times-div-Surefire_suite">
               </div> <!-- times-div-Surefire_suite -->
             </div> <!-- times-div -->
@@ -242,12 +386,42 @@ return data;
               <div class="test-method">
                 <img src="failed.png">
                 </img>
-                <span class="method-name">runScenario("User performs hide opertion of numbers", "Optional[hide and show of animation button]")</span>
-                <span class="method-start">646 ms</span>
+                <span class="method-name">runScenario("User performs hide opertion of numbers", "Optional[hide operation of animation button]")</span>
+                <span class="method-start">1283 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">runScenario("User performs show operation of numbers", "Optional[show operation of animation button]")</span>
+                <span class="method-start">6296 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">runScenario("User performs cloning opertion", "Optional[cloning operation of animation button]")</span>
+                <span class="method-start">15465 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">runScenario("User performs custom evaluator opration", "Optional[custom evaluator opration of animation button]")</span>
+                <span class="method-start">18177 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">runScenario("User performs loading opertion", "Optional[loading operation of animation button]")</span>
+                <span class="method-start">26978 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">runScenario("User performs multiple properties opertion", "Optional[multiple properties of animation button]")</span>
+                <span class="method-start">29547 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDownClass</span>
-                <span class="method-start">21689 ms</span>
+                <span class="method-start">39301 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

@@ -1,21 +1,18 @@
 package Runner;
 
+import org.apache.log4j.BasicConfigurator;
+import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
-public class LoggerHelper 
-{
-	private static boolean root = false;
+public class LoggerHelper {
 
-	public static Logger getLogger(Class clas)
-	{
-		if (root) {
-			return Logger.getLogger(clas);
-		}
-		PropertyConfigurator.configure(("/Exit_Test/src/resources/log4j2.properties"));
-		root = true;
-		return Logger.getLogger(clas);
+	public Logger log;
+
+	public LoggerHelper(String name) {
+		log = LogManager.getLogger(name);
+		BasicConfigurator.configure();
+
+		PropertyConfigurator.configure("./src/test/resources/log4j2.properties");
 	}
 }
-
-

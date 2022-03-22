@@ -1,9 +1,0 @@
-stepdefinition\Hooks.class
-Runner\LoggerHelper.class
-stepdefinition\AnimationShowStep.class
-stepdefinition\MultiplePropertiesStep.class
-stepdefinition\LoadingStep.class
-Runner\TestRunner.class
-stepdefinition\AnimationHideStep.class
-stepdefinition\CloningStep.class
-stepdefinition\CustomStep.class

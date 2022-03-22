@@ -1,0 +1,598 @@
+2022-03-22 16:27:09,822  INFO [main] Hooks:23 - 
+2022-03-22 16:27:21,021  INFO [main] Animation Hide:29 - animation button click completed
+2022-03-22 16:27:22,473  INFO [main] Animation Hide:38 - 
+2022-03-22 16:27:23,760  INFO [main] Animation Hide:47 - 
+2022-03-22 16:27:26,126  INFO [main] Animation Hide:56 - 
+2022-03-22 16:27:28,467  INFO [main] Animation Hide:65 - 
+2022-03-22 16:27:30,809  INFO [main] Animation Hide:74 - 
+2022-03-22 16:27:33,235  INFO [main] Animation Hide:83 - 
+2022-03-22 16:27:35,371  INFO [main] Animation Hide:92 - 
+2022-03-22 16:27:41,329  INFO [main] Hooks:43 - 
+2022-03-22 16:27:43,077  INFO [main] Hooks:32 - 
+2022-03-22 17:06:41,467  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:06:55,276  INFO [main] Animation Hide:18 - opening animation page
+2022-03-22 17:06:58,275  INFO [main] Animation Hide:26 - animation button click completed
+2022-03-22 17:07:00,810  INFO [main] Animation Hide:34 - clicked on hide and show button
+2022-03-22 17:07:01,411  INFO [main] Animation Hide:42 - clicked checked box for custom animation
+2022-03-22 17:07:02,423  INFO [main] Animation Hide:50 - clicked check box for hide operation
+2022-03-22 17:07:03,453  INFO [main] Animation Hide:58 - clicked on number 0
+2022-03-22 17:07:04,973  INFO [main] Animation Hide:66 - clicked on number 1
+2022-03-22 17:07:06,377  INFO [main] Animation Hide:74 - clicked on number 2
+2022-03-22 17:07:07,877  INFO [main] Animation Hide:82 - clicked on number 3
+2022-03-22 17:07:13,670  INFO [main] Hooks:39 - adding screenshot for failure test cases
+2022-03-22 17:07:14,032  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:07:14,090  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:07:40,900  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:07:53,552  INFO [main] Animation Hide:18 - opening animation page
+2022-03-22 17:07:56,699  INFO [main] Animation Hide:26 - animation button click completed
+2022-03-22 17:07:58,652  INFO [main] Animation Hide:34 - clicked on hide and show button
+2022-03-22 17:07:59,342  INFO [main] Animation Hide:42 - clicked checked box for custom animation
+2022-03-22 17:08:00,857  INFO [main] Animation Hide:50 - clicked check box for hide operation
+2022-03-22 17:08:01,422  INFO [main] Animation Hide:58 - clicked on number 0
+2022-03-22 17:08:02,946  INFO [main] Animation Hide:66 - clicked on number 1
+2022-03-22 17:08:04,430  INFO [main] Animation Hide:74 - clicked on number 2
+2022-03-22 17:08:05,970  INFO [main] Animation Hide:82 - clicked on number 3
+2022-03-22 17:08:11,618  INFO [main] Hooks:39 - adding screenshot for failure test cases
+2022-03-22 17:08:12,081  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:08:12,147  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:10:03,556  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:10:15,480  INFO [main] Animation Hide:18 - opening animation page
+2022-03-22 17:10:18,270  INFO [main] Animation Hide:26 - animation button click completed
+2022-03-22 17:10:19,942  INFO [main] Animation Hide:34 - clicked on hide and show button
+2022-03-22 17:10:20,476  INFO [main] Animation Hide:42 - clicked checked box for custom animation
+2022-03-22 17:10:21,427  INFO [main] Animation Hide:50 - clicked check box for hide operation
+2022-03-22 17:10:22,356  INFO [main] Animation Hide:58 - clicked on number 0
+2022-03-22 17:10:23,866  INFO [main] Animation Hide:66 - clicked on number 1
+2022-03-22 17:10:25,270  INFO [main] Animation Hide:74 - clicked on number 2
+2022-03-22 17:10:26,771  INFO [main] Animation Hide:82 - clicked on number 3
+2022-03-22 17:10:32,022  INFO [main] Animation Hide:94 - checkin whether page title correct or not
+2022-03-22 17:10:32,372  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:10:32,425  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:11:17,122  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:11:32,525  INFO [main] Animation show:18 - opening animation page
+2022-03-22 17:11:44,466  INFO [main] Animation show:33 - I perform hide operation
+2022-03-22 17:11:44,995  INFO [main] Animation show:41 - unchecked box of custom animation box
+2022-03-22 17:11:49,972  INFO [main] Animation show:51 - unchecked box of hide box
+2022-03-22 17:11:54,454  INFO [main] Animation show:61 - click on show buttons
+2022-03-22 17:11:54,629  INFO [main] Animation show:70 - checkin whether page title correct or not
+2022-03-22 17:11:55,143  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:11:55,195  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:13:20,486  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:13:34,784  INFO [main] Animation show:18 - opening animation page
+2022-03-22 17:13:37,870  INFO [main] Animation show:26 - click on animation button
+2022-03-22 17:13:39,694  INFO [main] Animation show:34 - click on cloning button
+2022-03-22 17:13:50,342  INFO [main] Animation show:44 - click on run button
+2022-03-22 17:13:50,602  INFO [main] Animation show:52 - checkin whether page title correct or not
+2022-03-22 17:13:51,093  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:13:51,146  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:15:54,291  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:16:06,778  INFO [main] Animation show:18 - opening animation page
+2022-03-22 17:16:09,583  INFO [main] Animation show:26 - click on animation button
+2022-03-22 17:16:11,190  INFO [main] Animation show:34 - click on cloning button
+2022-03-22 17:16:21,798  INFO [main] Animation show:44 - click on run button
+2022-03-22 17:16:22,060  INFO [main] Animation show:52 - checkin whether page title correct or not
+2022-03-22 17:16:22,542  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:16:22,604  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:17:42,932  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:17:55,438  INFO [main] Animation show:18 - opening animation page
+2022-03-22 17:17:58,054  INFO [main] Animation show:26 - click on animation button
+2022-03-22 17:17:59,507  INFO [main] Animation show:34 - click on custom button
+2022-03-22 17:18:10,010  INFO [main] Animation show:44 - click on play button
+2022-03-22 17:18:10,154  INFO [main] Animation show:52 - checkin whether page title correct or not
+2022-03-22 17:18:10,513  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:18:10,567  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:24:12,460  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:24:27,255  INFO [main] Animation show:18 - opening animation page
+2022-03-22 17:24:30,117  INFO [main] Animation show:26 - click on animation button
+2022-03-22 17:24:31,953  INFO [main] Animation show:34 - click on loading button
+2022-03-22 17:24:37,636  INFO [main] Animation show:45 - click on run button
+2022-03-22 17:24:37,864  INFO [main] Animation show:53 - checkin whether page title correct or not
+2022-03-22 17:24:38,284  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:24:38,346  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:25:05,114  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:25:18,669  INFO [main] Animation show:18 - opening animation page
+2022-03-22 17:25:21,827  INFO [main] Animation show:26 - click on animation button
+2022-03-22 17:25:23,642  INFO [main] Animation show:34 - click on loading button
+2022-03-22 17:25:34,671  INFO [main] Animation show:45 - click on run button
+2022-03-22 17:25:34,905  INFO [main] Animation show:53 - checkin whether page title correct or not
+2022-03-22 17:25:35,294  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:25:35,353  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:26:14,703  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:26:19,082  INFO [main] Animation show:18 - opening animation page
+2022-03-22 17:28:13,303  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:28:16,335  INFO [main] Animation show:18 - opening animation page
+2022-03-22 17:33:02,325  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:33:31,534  INFO [main] Animation show:18 - opening animation page
+2022-03-22 17:33:34,573  INFO [main] Animation show:26 - click on animation button
+2022-03-22 17:33:36,845  INFO [main] Animation show:34 - click on loading button
+2022-03-22 17:33:42,483  INFO [main] Animation show:45 - click on run button
+2022-03-22 17:33:42,747  INFO [main] Animation show:53 - checkin whether page title correct or not
+2022-03-22 17:33:43,111  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:33:43,167  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:35:05,294  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:35:19,693  INFO [main] Animation show:19 - opening animation page
+2022-03-22 17:35:22,664  INFO [main] Animation show:27 - click on animation button
+2022-03-22 17:35:24,423  INFO [main] Animation show:35 - click on multiple properties button
+2022-03-22 17:35:30,076  INFO [main] Animation show:45 - click on run button
+2022-03-22 17:35:30,698  INFO [main] Hooks:39 - adding screenshot for failure test cases
+2022-03-22 17:35:31,201  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:35:31,258  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:36:52,081  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:37:03,835  INFO [main] Animation show:19 - opening animation page
+2022-03-22 17:37:06,636  INFO [main] Animation show:27 - click on animation button
+2022-03-22 17:37:08,344  INFO [main] Animation show:35 - click on multiple properties button
+2022-03-22 17:37:13,859  INFO [main] Animation show:45 - click on run button
+2022-03-22 17:37:14,040  INFO [main] Animation show:53 - checkin whether page title correct or not
+2022-03-22 17:37:14,426  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:37:14,492  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:38:45,839  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:38:58,434  INFO [main] Animation Hide:18 - opening animation page
+2022-03-22 17:39:01,564  INFO [main] Animation Hide:26 - animation button click completed
+2022-03-22 17:39:03,468  INFO [main] Animation Hide:34 - clicked on hide and show button
+2022-03-22 17:39:04,175  INFO [main] Animation Hide:42 - clicked checked box for custom animation
+2022-03-22 17:39:05,199  INFO [main] Animation Hide:50 - clicked check box for hide operation
+2022-03-22 17:39:06,230  INFO [main] Animation Hide:58 - clicked on number 0
+2022-03-22 17:39:07,607  INFO [main] Animation Hide:66 - clicked on number 1
+2022-03-22 17:39:08,989  INFO [main] Animation Hide:74 - clicked on number 2
+2022-03-22 17:39:10,398  INFO [main] Animation Hide:82 - clicked on number 3
+2022-03-22 17:39:15,609  INFO [main] Animation Hide:94 - checkin whether page title correct or not
+2022-03-22 17:39:16,060  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:39:16,114  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:39:20,167  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:39:32,679  INFO [main] Animation show:18 - opening animation page
+2022-03-22 17:39:43,971  INFO [main] Animation show:33 - I perform hide operation
+2022-03-22 17:39:44,532  INFO [main] Animation show:41 - unchecked box of custom animation box
+2022-03-22 17:39:49,511  INFO [main] Animation show:51 - unchecked box of hide box
+2022-03-22 17:39:53,992  INFO [main] Animation show:61 - click on show buttons
+2022-03-22 17:39:54,166  INFO [main] Animation show:70 - checkin whether page title correct or not
+2022-03-22 17:39:54,518  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:39:54,578  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:39:58,355  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:40:11,074  INFO [main] Animation show:18 - opening animation page
+2022-03-22 17:40:14,048  INFO [main] Animation show:26 - click on animation button
+2022-03-22 17:40:15,678  INFO [main] Animation show:34 - click on cloning button
+2022-03-22 17:40:26,231  INFO [main] Animation show:44 - click on run button
+2022-03-22 17:40:26,474  INFO [main] Animation show:52 - checkin whether page title correct or not
+2022-03-22 17:40:26,886  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:40:26,944  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:40:29,757  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:40:46,908  INFO [main] Animation show:18 - opening animation page
+2022-03-22 17:40:46,944  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:40:47,001  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:40:50,063  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:40:55,189  INFO [main] Animation show:18 - opening animation page
+2022-03-22 17:40:55,208  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:40:55,271  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:40:57,892  INFO [main] Hooks:20 - appium starting
+2022-03-22 17:41:02,647  INFO [main] Animation show:19 - opening animation page
+2022-03-22 17:41:02,663  INFO [main] Hooks:26 - Quitting appium
+2022-03-22 17:41:02,721  INFO [main] Hooks:29 - Closing serive
+2022-03-22 17:48:23,661  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 17:48:31,704  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 17:48:33,033  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 17:48:33,909  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 17:48:35,173  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 17:48:41,526  INFO [main] Animation cloning logger:18 - opening animation page
+2022-03-22 17:48:42,618  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 17:48:43,493  INFO [main] Animation custom logger:18 - opening animation page
+2022-03-22 17:48:45,387  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 17:48:52,993  INFO [main] Animation loading logger:18 - opening animation page
+2022-03-22 17:48:54,265  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 17:48:55,446  INFO [main] Animation multiple logger:19 - opening animation page
+2022-03-22 17:56:51,365  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 17:56:54,394  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 17:56:57,850  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 17:58:05,708  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 17:58:22,814  INFO [main] Animation show logger:33 - I perform hide operation
+2022-03-22 17:58:23,678  INFO [main] Animation show logger:41 - unchecked box of custom animation box
+2022-03-22 17:58:28,702  INFO [main] Animation show logger:51 - unchecked box of hide box
+2022-03-22 17:58:33,224  INFO [main] Animation show logger:61 - click on show buttons
+2022-03-22 17:58:33,431  INFO [main] Animation show logger:70 - checkin whether page title correct or not
+2022-03-22 17:58:33,810  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 17:58:33,811  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 17:58:36,017  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 17:58:52,418  INFO [main] Animation cloning logger:18 - opening animation page
+2022-03-22 17:58:55,713  INFO [main] Animation cloning logger:26 - click on animation button
+2022-03-22 17:58:57,528  INFO [main] Animation cloning logger:34 - click on cloning button
+2022-03-22 17:59:08,138  INFO [main] Animation cloning logger:44 - click on run button
+2022-03-22 17:59:08,357  INFO [main] Animation cloning logger:52 - checkin whether page title correct or not
+2022-03-22 17:59:08,756  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 17:59:08,757  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 17:59:10,423  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 17:59:23,650  INFO [main] Animation custom logger:18 - opening animation page
+2022-03-22 17:59:27,033  INFO [main] Animation custom logger:26 - click on animation button
+2022-03-22 17:59:28,822  INFO [main] Animation custom logger:34 - click on custom button
+2022-03-22 17:59:39,376  INFO [main] Animation custom logger:44 - click on play button
+2022-03-22 17:59:39,640  INFO [main] Animation custom logger:52 - checkin whether page title correct or not
+2022-03-22 17:59:40,119  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 17:59:40,120  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 17:59:41,829  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 17:59:56,145  INFO [main] Animation loading logger:18 - opening animation page
+2022-03-22 17:59:59,421  INFO [main] Animation loading logger:26 - click on animation button
+2022-03-22 18:00:00,153  INFO [main] Animation loading logger:34 - click on loading button
+2022-03-22 18:00:07,064  INFO [main] Animation loading logger:45 - click on run button
+2022-03-22 18:00:07,273  INFO [main] Animation loading logger:53 - checkin whether page title correct or not
+2022-03-22 18:00:07,655  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:00:07,656  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:00:09,304  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:00:23,664  INFO [main] Animation multiple logger:19 - opening animation page
+2022-03-22 18:00:26,788  INFO [main] Animation multiple logger:27 - click on animation button
+2022-03-22 18:00:28,464  INFO [main] Animation multiple logger:35 - click on multiple properties button
+2022-03-22 18:00:33,994  INFO [main] Animation multiple logger:45 - click on run button
+2022-03-22 18:00:34,191  INFO [main] Animation multiple logger:53 - checkin whether page title correct or not
+2022-03-22 18:00:34,610  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:00:34,611  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:06:25,940  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:06:28,951  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 18:06:33,190  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:06:47,473  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 18:06:59,701  INFO [main] Animation show logger:33 - I perform hide operation
+2022-03-22 18:07:00,226  INFO [main] Animation show logger:41 - unchecked box of custom animation box
+2022-03-22 18:07:05,776  INFO [main] Animation show logger:51 - unchecked box of hide box
+2022-03-22 18:07:10,258  INFO [main] Animation show logger:61 - click on show buttons
+2022-03-22 18:07:10,414  INFO [main] Animation show logger:70 - checkin whether page title correct or not
+2022-03-22 18:07:10,788  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:07:10,849  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:07:14,751  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:07:28,129  INFO [main] Animation cloning logger:18 - opening animation page
+2022-03-22 18:07:31,357  INFO [main] Animation cloning logger:26 - click on animation button
+2022-03-22 18:07:32,997  INFO [main] Animation cloning logger:34 - click on cloning button
+2022-03-22 18:07:43,570  INFO [main] Animation cloning logger:44 - click on run button
+2022-03-22 18:07:43,773  INFO [main] Animation cloning logger:52 - checkin whether page title correct or not
+2022-03-22 18:07:44,093  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:07:44,159  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:07:47,887  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:08:01,867  INFO [main] Animation custom logger:18 - opening animation page
+2022-03-22 18:08:04,852  INFO [main] Animation custom logger:26 - click on animation button
+2022-03-22 18:08:06,499  INFO [main] Animation custom logger:34 - click on custom button
+2022-03-22 18:08:17,137  INFO [main] Animation custom logger:44 - click on play button
+2022-03-22 18:08:17,390  INFO [main] Animation custom logger:52 - checkin whether page title correct or not
+2022-03-22 18:08:17,869  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:08:17,925  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:08:21,605  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:08:35,270  INFO [main] Animation loading logger:18 - opening animation page
+2022-03-22 18:08:38,090  INFO [main] Animation loading logger:26 - click on animation button
+2022-03-22 18:08:39,823  INFO [main] Animation loading logger:34 - click on loading button
+2022-03-22 18:08:45,453  INFO [main] Animation loading logger:45 - click on run button
+2022-03-22 18:08:45,645  INFO [main] Animation loading logger:53 - checkin whether page title correct or not
+2022-03-22 18:08:45,979  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:08:46,040  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:08:49,770  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:09:03,260  INFO [main] Animation multiple logger:19 - opening animation page
+2022-03-22 18:09:06,232  INFO [main] Animation multiple logger:27 - click on animation button
+2022-03-22 18:09:08,001  INFO [main] Animation multiple logger:35 - click on multiple properties button
+2022-03-22 18:09:13,610  INFO [main] Animation multiple logger:45 - click on run button
+2022-03-22 18:09:13,967  INFO [main] Animation multiple logger:53 - checkin whether page title correct or not
+2022-03-22 18:09:14,617  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:09:14,673  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:14:01,913  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:14:14,662  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 18:14:17,901  INFO [main] Animation hide logger:26 - animation button click completed
+2022-03-22 18:14:19,799  INFO [main] Animation hide logger:34 - clicked on hide and show button
+2022-03-22 18:14:20,324  INFO [main] Animation hide logger:42 - clicked checked box for custom animation
+2022-03-22 18:14:21,340  INFO [main] Animation hide logger:50 - clicked check box for hide operation
+2022-03-22 18:14:22,163  INFO [main] Animation hide logger:58 - clicked on number 0
+2022-03-22 18:14:23,569  INFO [main] Animation hide logger:66 - clicked on number 1
+2022-03-22 18:14:24,969  INFO [main] Animation hide logger:74 - clicked on number 2
+2022-03-22 18:14:26,322  INFO [main] Animation hide logger:82 - clicked on number 3
+2022-03-22 18:14:31,498  INFO [main] Animation hide logger:94 - checkin whether page title correct or not
+2022-03-22 18:14:31,781  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:14:31,836  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:19:01,729  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:19:13,589  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 18:19:16,524  INFO [main] Animation hide logger:26 - animation button click completed for hide operation
+2022-03-22 18:19:18,257  INFO [main] Animation hide logger:34 - clicked on hide and show button
+2022-03-22 18:19:18,846  INFO [main] Animation hide logger:42 - clicked checked box for custom animation
+2022-03-22 18:19:19,864  INFO [main] Animation hide logger:50 - clicked check box for hide operation
+2022-03-22 18:19:20,776  INFO [main] Animation hide logger:58 - clicked on number 0
+2022-03-22 18:19:22,181  INFO [main] Animation hide logger:66 - clicked on number 1
+2022-03-22 18:19:23,565  INFO [main] Animation hide logger:74 - clicked on number 2
+2022-03-22 18:19:24,979  INFO [main] Animation hide logger:82 - clicked on number 3
+2022-03-22 18:19:30,151  INFO [main] Animation hide logger:94 - checkin whether page title correct or not
+2022-03-22 18:19:30,446  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:19:30,503  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:19:34,139  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:19:46,713  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 18:19:58,198  INFO [main] Animation show logger:33 - I perform hide operation
+2022-03-22 18:19:58,657  INFO [main] Animation show logger:41 - unchecked box of custom animation box
+2022-03-22 18:20:03,522  INFO [main] Animation show logger:51 - unchecked box of hide box
+2022-03-22 18:20:07,900  INFO [main] Animation show logger:61 - click on show buttons
+2022-03-22 18:20:08,034  INFO [main] Animation show logger:70 - checkin whether page title correct or not
+2022-03-22 18:20:08,312  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:20:08,366  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:27:06,570  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:27:22,445  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 18:27:25,776  INFO [main] Animation hide logger:26 - animation button click completed for hide operation
+2022-03-22 18:27:28,960  INFO [main] Animation hide logger:34 - clicked on hide and show button
+2022-03-22 18:27:29,617  INFO [main] Animation hide logger:42 - clicked checked box for custom animation
+2022-03-22 18:27:30,648  INFO [main] Animation hide logger:50 - clicked check box for hide operation
+2022-03-22 18:27:31,668  INFO [main] Animation hide logger:58 - clicked on number 0
+2022-03-22 18:27:33,096  INFO [main] Animation hide logger:66 - clicked on number 1
+2022-03-22 18:27:34,602  INFO [main] Animation hide logger:74 - clicked on number 2
+2022-03-22 18:27:36,151  INFO [main] Animation hide logger:82 - clicked on number 3
+2022-03-22 18:27:41,357  INFO [main] Animation hide logger:94 - checkin whether page title correct or not
+2022-03-22 18:27:41,751  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:27:41,810  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:27:46,555  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:28:00,868  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 18:28:12,568  INFO [main] Animation show logger:33 - I perform hide operation
+2022-03-22 18:28:13,153  INFO [main] Animation show logger:41 - unchecked box of custom animation box
+2022-03-22 18:28:18,097  INFO [main] Animation show logger:51 - unchecked box of hide box
+2022-03-22 18:28:22,598  INFO [main] Animation show logger:61 - click on show buttons
+2022-03-22 18:28:22,762  INFO [main] Animation show logger:70 - checkin whether page title correct or not
+2022-03-22 18:28:23,152  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:28:23,216  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:31:55,635  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:32:49,888  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 18:32:51,309  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:33:50,896  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 18:33:52,783  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:33:54,137  INFO [main] Animation cloning logger:18 - opening animation page
+2022-03-22 18:33:55,515  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:33:57,663  INFO [main] Animation custom logger:18 - opening animation page
+2022-03-22 18:33:59,089  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:34:00,488  INFO [main] Animation loading logger:18 - opening animation page
+2022-03-22 18:34:02,057  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:34:03,722  INFO [main] Animation multiple logger:19 - opening animation page
+2022-03-22 18:38:46,370  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:38:49,391  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 18:38:51,992  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:39:20,033  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 18:39:33,245  INFO [main] Animation show logger:33 - I perform hide operation
+2022-03-22 18:39:33,729  INFO [main] Animation show logger:41 - unchecked box of custom animation box
+2022-03-22 18:39:38,658  INFO [main] Animation show logger:51 - unchecked box of hide box
+2022-03-22 18:39:43,045  INFO [main] Animation show logger:61 - click on show buttons
+2022-03-22 18:39:43,199  INFO [main] Animation show logger:70 - checkin whether page title correct or not
+2022-03-22 18:39:43,541  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:39:43,543  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:39:46,170  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:40:01,390  INFO [main] Animation cloning logger:18 - opening animation page
+2022-03-22 18:40:04,691  INFO [main] Animation cloning logger:26 - click on animation button
+2022-03-22 18:40:06,367  INFO [main] Animation cloning logger:34 - click on cloning button
+2022-03-22 18:40:16,891  INFO [main] Animation cloning logger:44 - click on run button
+2022-03-22 18:40:17,077  INFO [main] Animation cloning logger:52 - checkin whether page title correct or not
+2022-03-22 18:40:17,415  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:40:17,416  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:40:20,049  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:40:34,373  INFO [main] Animation custom logger:18 - opening animation page
+2022-03-22 18:40:37,514  INFO [main] Animation custom logger:26 - click on animation button
+2022-03-22 18:40:39,156  INFO [main] Animation custom logger:34 - click on custom button
+2022-03-22 18:40:49,658  INFO [main] Animation custom logger:44 - click on play button
+2022-03-22 18:40:49,848  INFO [main] Animation custom logger:52 - checkin whether page title correct or not
+2022-03-22 18:40:50,221  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:40:50,222  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:40:52,799  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:41:07,423  INFO [main] Animation loading logger:18 - opening animation page
+2022-03-22 18:41:10,463  INFO [main] Animation loading logger:26 - click on animation button
+2022-03-22 18:41:11,939  INFO [main] Animation loading logger:34 - click on loading button
+2022-03-22 18:41:17,408  INFO [main] Animation loading logger:45 - click on run button
+2022-03-22 18:41:17,540  INFO [main] Animation loading logger:53 - checkin whether page title correct or not
+2022-03-22 18:41:17,884  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:41:17,885  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:41:20,077  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:41:38,087  INFO [main] Animation multiple logger:19 - opening animation page
+2022-03-22 18:41:38,096  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:41:38,097  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:42:40,213  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:42:43,207  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 18:42:45,257  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:42:47,641  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 18:42:50,043  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:42:59,021  INFO [main] Animation cloning logger:18 - opening animation page
+2022-03-22 18:43:00,380  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:43:01,998  INFO [main] Animation custom logger:18 - opening animation page
+2022-03-22 18:43:03,999  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:43:05,970  INFO [main] Animation loading logger:18 - opening animation page
+2022-03-22 18:43:08,514  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:43:16,526  INFO [main] Animation multiple logger:19 - opening animation page
+2022-03-22 18:55:33,899  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:55:36,907  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 18:58:46,083  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:59:03,448  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 18:59:06,387  INFO [main] Animation hide logger:26 - animation button click completed for hide operation
+2022-03-22 18:59:08,312  INFO [main] Animation hide logger:34 - clicked on hide and show button
+2022-03-22 18:59:09,029  INFO [main] Animation hide logger:42 - clicked checked box for custom animation
+2022-03-22 18:59:10,073  INFO [main] Animation hide logger:50 - clicked check box for hide operation
+2022-03-22 18:59:11,050  INFO [main] Animation hide logger:58 - clicked on number 0
+2022-03-22 18:59:12,667  INFO [main] Animation hide logger:66 - clicked on number 1
+2022-03-22 18:59:14,203  INFO [main] Animation hide logger:74 - clicked on number 2
+2022-03-22 18:59:15,674  INFO [main] Animation hide logger:82 - clicked on number 3
+2022-03-22 18:59:20,919  INFO [main] Animation hide logger:94 - checkin whether page title correct or not
+2022-03-22 18:59:21,216  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 18:59:21,282  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 18:59:25,829  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 18:59:39,305  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 18:59:51,168  INFO [main] Animation show logger:33 - I perform hide operation
+2022-03-22 18:59:51,677  INFO [main] Animation show logger:41 - unchecked box of custom animation box
+2022-03-22 18:59:56,672  INFO [main] Animation show logger:51 - unchecked box of hide box
+2022-03-22 19:00:01,174  INFO [main] Animation show logger:61 - click on show buttons
+2022-03-22 19:00:01,360  INFO [main] Animation show logger:70 - checkin whether page title correct or not
+2022-03-22 19:00:01,730  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:00:01,790  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:00:05,828  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:00:19,999  INFO [main] Animation cloning logger:18 - opening animation page
+2022-03-22 19:00:22,919  INFO [main] Animation cloning logger:26 - click on animation button
+2022-03-22 19:00:24,694  INFO [main] Animation cloning logger:34 - click on cloning button
+2022-03-22 19:00:35,362  INFO [main] Animation cloning logger:44 - click on run button
+2022-03-22 19:00:35,606  INFO [main] Animation cloning logger:52 - checkin whether page title correct or not
+2022-03-22 19:00:36,059  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:00:36,121  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:02:06,713  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:02:22,269  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 19:02:25,499  INFO [main] Animation hide logger:26 - animation button click completed for hide operation
+2022-03-22 19:02:27,486  INFO [main] Animation hide logger:34 - clicked on hide and show button
+2022-03-22 19:02:28,166  INFO [main] Animation hide logger:42 - clicked checked box for custom animation
+2022-03-22 19:02:29,263  INFO [main] Animation hide logger:50 - clicked check box for hide operation
+2022-03-22 19:02:30,317  INFO [main] Animation hide logger:58 - clicked on number 0
+2022-03-22 19:02:31,844  INFO [main] Animation hide logger:66 - clicked on number 1
+2022-03-22 19:02:33,445  INFO [main] Animation hide logger:74 - clicked on number 2
+2022-03-22 19:02:34,923  INFO [main] Animation hide logger:82 - clicked on number 3
+2022-03-22 19:02:40,164  INFO [main] Animation hide logger:94 - checkin whether page title correct or not
+2022-03-22 19:02:40,587  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:02:40,650  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:02:45,254  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:02:59,819  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 19:03:12,004  INFO [main] Animation show logger:33 - I perform hide operation
+2022-03-22 19:03:12,579  INFO [main] Animation show logger:41 - unchecked box of custom animation box
+2022-03-22 19:03:17,614  INFO [main] Animation show logger:51 - unchecked box of hide box
+2022-03-22 19:03:22,121  INFO [main] Animation show logger:61 - click on show buttons
+2022-03-22 19:03:22,337  INFO [main] Animation show logger:70 - checkin whether page title correct or not
+2022-03-22 19:03:22,751  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:03:22,817  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:03:26,691  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:03:40,529  INFO [main] Animation cloning logger:18 - opening animation page
+2022-03-22 19:03:43,584  INFO [main] Animation cloning logger:26 - click on animation button
+2022-03-22 19:03:45,493  INFO [main] Animation cloning logger:34 - click on cloning button
+2022-03-22 19:03:56,113  INFO [main] Animation cloning logger:44 - click on run button
+2022-03-22 19:03:56,385  INFO [main] Animation cloning logger:52 - checkin whether page title correct or not
+2022-03-22 19:03:56,759  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:03:56,825  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:04:01,239  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:04:14,565  INFO [main] Animation custom logger:18 - opening animation page
+2022-03-22 19:04:17,709  INFO [main] Animation custom logger:26 - click on animation button
+2022-03-22 19:04:19,602  INFO [main] Animation custom logger:34 - click on custom button
+2022-03-22 19:04:30,221  INFO [main] Animation custom logger:44 - click on play button
+2022-03-22 19:04:30,456  INFO [main] Animation custom logger:52 - checkin whether page title correct or not
+2022-03-22 19:04:30,859  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:04:30,914  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:10:07,567  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:10:20,879  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 19:10:23,870  INFO [main] Animation hide logger:26 - animation button click completed for hide operation
+2022-03-22 19:10:25,590  INFO [main] Animation hide logger:34 - clicked on hide and show button
+2022-03-22 19:10:26,181  INFO [main] Animation hide logger:42 - clicked checked box for custom animation
+2022-03-22 19:10:27,167  INFO [main] Animation hide logger:50 - clicked check box for hide operation
+2022-03-22 19:10:28,177  INFO [main] Animation hide logger:58 - clicked on number 0
+2022-03-22 19:10:29,608  INFO [main] Animation hide logger:66 - clicked on number 1
+2022-03-22 19:10:31,014  INFO [main] Animation hide logger:74 - clicked on number 2
+2022-03-22 19:10:32,473  INFO [main] Animation hide logger:82 - clicked on number 3
+2022-03-22 19:10:37,660  INFO [main] Animation hide logger:94 - checkin whether page title correct or not
+2022-03-22 19:10:38,006  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:10:38,071  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:10:42,734  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:10:56,190  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 19:11:08,035  INFO [main] Animation show logger:33 - I perform hide operation
+2022-03-22 19:11:08,504  INFO [main] Animation show logger:41 - unchecked box of custom animation box
+2022-03-22 19:11:13,408  INFO [main] Animation show logger:51 - unchecked box of hide box
+2022-03-22 19:11:17,801  INFO [main] Animation show logger:61 - click on show buttons
+2022-03-22 19:11:18,005  INFO [main] Animation show logger:70 - checkin whether page title correct or not
+2022-03-22 19:11:18,385  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:11:18,449  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:11:22,951  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:11:35,804  INFO [main] Animation cloning logger:18 - opening animation page
+2022-03-22 19:11:38,942  INFO [main] Animation cloning logger:26 - click on animation button
+2022-03-22 19:11:40,700  INFO [main] Animation cloning logger:34 - click on cloning button
+2022-03-22 19:11:51,339  INFO [main] Animation cloning logger:44 - click on run button
+2022-03-22 19:11:51,490  INFO [main] Animation cloning logger:52 - checkin whether page title correct or not
+2022-03-22 19:11:51,805  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:11:51,865  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:11:56,398  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:12:09,874  INFO [main] Animation custom logger:18 - opening animation page
+2022-03-22 19:12:12,753  INFO [main] Animation custom logger:26 - click on animation button
+2022-03-22 19:12:14,638  INFO [main] Animation custom logger:34 - click on custom button
+2022-03-22 19:12:25,298  INFO [main] Animation custom logger:44 - click on play button
+2022-03-22 19:12:25,572  INFO [main] Animation custom logger:52 - checkin whether page title correct or not
+2022-03-22 19:12:25,912  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:12:25,977  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:12:28,960  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:12:48,418  INFO [main] Animation loading logger:18 - opening animation page
+2022-03-22 19:12:48,452  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:12:48,513  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:18:58,156  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:19:05,098  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 19:19:06,399  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:29:23,883  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:29:43,748  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 19:29:46,950  INFO [main] Animation hide logger:26 - animation button click completed for hide operation
+2022-03-22 19:29:48,876  INFO [main] Animation hide logger:34 - clicked on hide and show button
+2022-03-22 19:29:49,560  INFO [main] Animation hide logger:42 - clicked checked box for custom animation
+2022-03-22 19:29:50,511  INFO [main] Animation hide logger:50 - clicked check box for hide operation
+2022-03-22 19:29:51,554  INFO [main] Animation hide logger:58 - clicked on number 0
+2022-03-22 19:29:53,032  INFO [main] Animation hide logger:66 - clicked on number 1
+2022-03-22 19:29:54,494  INFO [main] Animation hide logger:74 - clicked on number 2
+2022-03-22 19:29:55,962  INFO [main] Animation hide logger:82 - clicked on number 3
+2022-03-22 19:29:56,191  INFO [main] Animation hide logger:94 - checkin whether page title correct or not
+2022-03-22 19:29:56,601  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:29:56,657  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:30:00,291  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:30:14,508  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 19:30:26,424  INFO [main] Animation show logger:33 - I perform hide operation
+2022-03-22 19:30:26,916  INFO [main] Animation show logger:41 - unchecked box of custom animation box
+2022-03-22 19:30:31,792  INFO [main] Animation show logger:51 - unchecked box of hide box
+2022-03-22 19:30:32,267  INFO [main] Animation show logger:61 - click on show buttons
+2022-03-22 19:30:33,005  INFO [main] Animation show logger:70 - checkin whether page title correct or not
+2022-03-22 19:30:33,352  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:30:33,405  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:30:37,264  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:30:50,552  INFO [main] Animation cloning logger:18 - opening animation page
+2022-03-22 19:30:53,411  INFO [main] Animation cloning logger:26 - click on animation button
+2022-03-22 19:30:55,322  INFO [main] Animation cloning logger:34 - click on cloning button
+2022-03-22 19:30:55,856  INFO [main] Animation cloning logger:44 - click on run button
+2022-03-22 19:30:56,863  INFO [main] Animation cloning logger:52 - checkin whether page title correct or not
+2022-03-22 19:30:57,193  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:30:57,259  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:31:00,739  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:31:17,294  INFO [main] Animation custom logger:18 - opening animation page
+2022-03-22 19:31:17,330  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:31:17,393  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:31:20,409  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:31:26,612  INFO [main] Animation loading logger:18 - opening animation page
+2022-03-22 19:31:26,628  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:31:26,692  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:31:29,500  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:31:34,124  INFO [main] Animation multiple logger:19 - opening animation page
+2022-03-22 19:31:34,140  INFO [main] Hooks logger:26 - Quitting appium
+2022-03-22 19:31:34,207  INFO [main] Hooks logger:29 - Closing serive
+2022-03-22 19:33:38,579  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:33:45,277  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 19:33:46,553  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:33:54,188  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 19:33:55,485  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:33:56,411  INFO [main] Animation cloning logger:18 - opening animation page
+2022-03-22 19:33:58,629  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:34:06,233  INFO [main] Animation custom logger:18 - opening animation page
+2022-03-22 19:34:07,499  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:34:15,701  INFO [main] Animation loading logger:18 - opening animation page
+2022-03-22 19:34:17,099  INFO [main] Hooks logger:20 - appium starting
+2022-03-22 19:34:24,512  INFO [main] Animation multiple logger:19 - opening animation page
+2022-03-22 19:37:56,695  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 19:38:05,957  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 19:38:08,666  INFO [main] Animation cloning logger:18 - opening animation page
+2022-03-22 19:38:17,473  INFO [main] Animation custom logger:18 - opening animation page
+2022-03-22 19:38:20,037  INFO [main] Animation loading logger:18 - opening animation page
+2022-03-22 19:38:29,792  INFO [main] Animation multiple logger:19 - opening animation page
+2022-03-22 19:45:33,452  INFO [main] Animation hide logger:18 - opening animation page
+2022-03-22 19:45:36,374  INFO [main] Animation hide logger:26 - animation button click completed for hide operation
+2022-03-22 19:45:38,239  INFO [main] Animation hide logger:34 - clicked on hide and show button
+2022-03-22 19:45:38,818  INFO [main] Animation hide logger:42 - clicked checked box for custom animation
+2022-03-22 19:45:39,888  INFO [main] Animation hide logger:50 - clicked check box for hide operation
+2022-03-22 19:45:40,926  INFO [main] Animation hide logger:58 - clicked on number 0
+2022-03-22 19:45:42,414  INFO [main] Animation hide logger:66 - clicked on number 1
+2022-03-22 19:45:43,877  INFO [main] Animation hide logger:74 - clicked on number 2
+2022-03-22 19:45:45,340  INFO [main] Animation hide logger:82 - clicked on number 3
+2022-03-22 19:45:45,558  INFO [main] Animation hide logger:94 - checkin whether page title correct or not
+2022-03-22 19:46:03,666  INFO [main] Animation show logger:18 - opening animation page
+2022-03-22 19:46:15,688  INFO [main] Animation show logger:33 - I perform hide operation
+2022-03-22 19:46:16,187  INFO [main] Animation show logger:41 - unchecked box of custom animation box
+2022-03-22 19:46:21,128  INFO [main] Animation show logger:51 - unchecked box of hide box
+2022-03-22 19:46:21,564  INFO [main] Animation show logger:61 - click on show buttons
+2022-03-22 19:46:22,279  INFO [main] Animation show logger:70 - checkin whether page title correct or not
+2022-03-22 19:46:42,062  INFO [main] Animation cloning logger:18 - opening animation page
+2022-03-22 19:46:45,037  INFO [main] Animation cloning logger:26 - click on animation button
+2022-03-22 19:46:46,804  INFO [main] Animation cloning logger:34 - click on cloning button
+2022-03-22 19:46:47,493  INFO [main] Animation cloning logger:44 - click on run button
+2022-03-22 19:46:48,181  INFO [main] Animation cloning logger:52 - checkin whether page title correct or not
+2022-03-22 19:47:04,931  INFO [main] Animation custom logger:18 - opening animation page
+2022-03-22 19:47:07,986  INFO [main] Animation custom logger:26 - click on animation button
+2022-03-22 19:47:09,634  INFO [main] Animation custom logger:34 - click on custom button
+2022-03-22 19:47:10,083  INFO [main] Animation custom logger:44 - click on play button
+2022-03-22 19:47:10,731  INFO [main] Animation custom logger:52 - checkin whether page title correct or not
+2022-03-22 19:47:33,242  INFO [main] Animation loading logger:18 - opening animation page
+2022-03-22 19:47:36,387  INFO [main] Animation loading logger:26 - click on animation button
+2022-03-22 19:47:37,926  INFO [main] Animation loading logger:34 - click on loading button
+2022-03-22 19:47:38,352  INFO [main] Animation loading logger:45 - click on run button
+2022-03-22 19:47:39,022  INFO [main] Animation loading logger:53 - checkin whether page title correct or not
+2022-03-22 19:48:01,829  INFO [main] Animation multiple logger:19 - opening animation page
+2022-03-22 19:48:04,556  INFO [main] Animation multiple logger:27 - click on animation button
+2022-03-22 19:48:06,148  INFO [main] Animation multiple logger:35 - click on multiple properties button
+2022-03-22 19:48:06,697  INFO [main] Animation multiple logger:45 - click on run button
+2022-03-22 19:48:07,429  INFO [main] Animation multiple logger:53 - checkin whether page title correct or not

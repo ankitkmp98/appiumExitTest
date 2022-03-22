@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-21T17:43:31Z" name="Default suite" finished-at="2022-03-21T17:43:58Z" duration-ms="27110">
+  <suite started-at="2022-03-22T14:15:10Z" name="Default suite" finished-at="2022-03-22T14:18:08Z" duration-ms="177831">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@48793bef]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2022-03-21T17:43:31Z" name="Default test" finished-at="2022-03-21T17:43:58Z" duration-ms="27110">
+    <test started-at="2022-03-22T14:15:10Z" name="Default test" finished-at="2022-03-22T14:18:08Z" duration-ms="177831">
       <class name="Runner.TestRunner">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:Runner.TestRunner@48793bef]" started-at="2022-03-21T23:13:31Z" name="setUpClass" finished-at="2022-03-21T23:13:32Z" duration-ms="638" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:Runner.TestRunner@48793bef]" started-at="2022-03-22T19:45:10Z" name="setUpClass" finished-at="2022-03-22T19:45:11Z" duration-ms="800" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@48793bef]" started-at="2022-03-21T23:13:32Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-21T23:13:58Z" duration-ms="26018" status="FAIL">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@48793bef]" started-at="2022-03-22T19:45:11Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T19:45:46Z" duration-ms="34619" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,29 +23,94 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA["Optional[hide and show of animation button]"]]>
+                <![CDATA["Optional[hide operation of animation button]"]]>
               </value>
             </param>
           </params>
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-	at org.testng.Assert.fail(Assert.java:93)
-	at org.testng.Assert.failNotEquals(Assert.java:512)
-	at org.testng.Assert.assertTrue(Assert.java:41)
-	at org.testng.Assert.assertTrue(Assert.java:51)
-	at stepdefinition.AnimationHideStep.i_click_on_number_fourth_number_for_hide_operation(AnimationHideStep.java:81)
-	at ✽.I click on number fourth number for hide operation(file:///D:/ANKIT/eclipse-workspace/Exit_Test/./src/test/java/features/animation_hide.feature:13)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:Runner.TestRunner@48793bef]" started-at="2022-03-21T23:13:58Z" name="tearDownClass" finished-at="2022-03-21T23:13:58Z" duration-ms="438" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@48793bef]" started-at="2022-03-22T19:45:46Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T19:46:22Z" duration-ms="36685" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User performs show operation of numbers"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[show operation of animation button]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@48793bef]" started-at="2022-03-22T19:46:22Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T19:46:48Z" duration-ms="25899" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User performs cloning opertion"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[cloning operation of animation button]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@48793bef]" started-at="2022-03-22T19:46:48Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T19:47:11Z" duration-ms="22725" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User performs custom evaluator opration"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[custom evaluator opration of animation button]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@48793bef]" started-at="2022-03-22T19:47:11Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T19:47:39Z" duration-ms="28083" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User performs loading opertion"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[loading operation of animation button]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@48793bef]" started-at="2022-03-22T19:47:39Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-22T19:48:07Z" duration-ms="28439" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User performs multiple properties opertion"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[multiple properties of animation button]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:Runner.TestRunner@48793bef]" started-at="2022-03-22T19:48:07Z" name="tearDownClass" finished-at="2022-03-22T19:48:08Z" duration-ms="547" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

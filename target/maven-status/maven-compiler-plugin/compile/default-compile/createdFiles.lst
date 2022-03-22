@@ -1,6 +1,0 @@
-base\BaseTest.class
-pages\CloningPage.class
-pages\HideShowAnimationPage.class
-pages\MultiplePropertiesPage.class
-pages\CustomPage.class
-pages\LoadingPage.class
